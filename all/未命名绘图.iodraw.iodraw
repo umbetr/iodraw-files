@@ -44,6 +44,15 @@
         <mxCell id="HlCRLW8EgyvYuOOdVcN1-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HlCRLW8EgyvYuOOdVcN1-6" target="HlCRLW8EgyvYuOOdVcN1-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="HlCRLW8EgyvYuOOdVcN1-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HlCRLW8EgyvYuOOdVcN1-6" target="HlCRLW8EgyvYuOOdVcN1-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="340" y="240" />
+              <mxPoint x="340" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="HlCRLW8EgyvYuOOdVcN1-6" value="Bulb&lt;br&gt;burned out?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="200" width="100" height="80" as="geometry" />
         </mxCell>
